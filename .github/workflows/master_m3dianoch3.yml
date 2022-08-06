@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'm3dianoch3'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C3966DDBCC3A44F5AC6CD2C29DD467CE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4FB216A6D55743B68BAD51A00B7D8E32 }}
           package: .
